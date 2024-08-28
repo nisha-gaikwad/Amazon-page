@@ -1,3 +1,8 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nisha-gaikwad" alt="nishagaikwad" /></a> </p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Nisha Gaikwad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
