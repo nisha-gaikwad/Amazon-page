@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently learning **html ,css,javascript,bootstrap,reactjs,**
 
-- 📫 How to reach me **giakwadnisha543@gmail.com**
-- Linkedin profile:-** linkedin.com/in/nisha-gaikwad-a90298229**
+- 📫 How to reach me **gaikwadnisha543@gmail.com**
+- Linkedin profile:- linkedin.com/in/nisha-gaikwad-a90298229
 
   
 
