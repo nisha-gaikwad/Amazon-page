@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="nisha-gaikwad" /> </p>
 
-- 🌱 I’m currently learning **html ,css,javascript,bootstrap,reactjs,**
+- 🌱 I’m currently learning ** c# ,SQL, Asp.net,html,css,javascript**
 
 - 📫 How to reach me **gaikwadnisha543@gmail.com**
 - Linkedin profile:- linkedin.com/in/nisha-gaikwad-a90298229
